@@ -1,6 +1,6 @@
 
 ## 👩 Olá, Seja bem-vindo ao meu perfil, é um prazer recebê-lo(a). 
-### -🎓  Cursando Marketing Digital - Unopar. 
+### -🎓  Cursando Experiência do usuário - UX/UI - Unopar. 
 ### - ❤️ Apaixonada por Tecnologia.
 ### - 🎮 Adoro jogar video game com meu filho
 ### - 🐱 Gosto de brincar com meu pet.
