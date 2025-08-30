@@ -1,13 +1,13 @@
 
 ## 👩 Olá, Seja bem-vindo ao meu perfil, é um prazer recebê-lo(a). 
-### -🎓  Cursando Experiência do usuário - UX/UI - Unopar. 
+
 ### - ❤️ Apaixonada por Tecnologia.
 ### - 🎮 Adoro jogar video game com meu filho
 ### - 🐱 Gosto de brincar com meu pet.
 
 
 ## -😍 Conquistas
-### Participei do processo seletivo e consegui uma bolsa de estudos para a trilha de desenvolvimento Front-end através do programa One 2023 em parceria com a escola de tecnologia Alura.
+### Adquiri bastante conhecimento durante a trilha de desenvolvimento Front-end através do programa One 2023 em parceria com a escola de tecnologia Alura.
 
 ## Acesse meu perfil
 
