@@ -1,13 +1,11 @@
 
 ## 👩 Olá, Seja bem-vindo ao meu perfil, é um prazer recebê-lo(a). 
 
-### - ❤️ Apaixonada por Tecnologia.
-### - 🎮 Adoro jogar video game com meu filho
-### - 🐱 Gosto de brincar com meu pet.
-
-
-## -😍 Conquistas
-### Adquiri bastante conhecimento durante a trilha de desenvolvimento Front-end através do programa One 2023 em parceria com a escola de tecnologia Alura.
+## 🌸 Desenvolvedora Front-End em construção | HTML • CSS • JavaScript  
+## 💻 Apaixonada por tecnologia, design clean e projetos criativos  
+## 🚀 Em constante evolução, construindo meu portfólio e carreira na área tech  
+## 📚 Sempre aprendendo e compartilhando conhecimento  
+## ✨ Transformando linhas de código em experiências encantadoras!
 
 ## Acesse meu perfil
 
