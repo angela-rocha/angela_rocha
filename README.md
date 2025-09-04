@@ -7,7 +7,7 @@
 ## 📚 Sempre aprendendo e compartilhando conhecimento  
 ## ✨ Transformando linhas de código em experiências encantadoras!
 
-## Acesse meu perfil
+## Acesse meu perfil 🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelasilvafrontend)
 
