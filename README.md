@@ -2,9 +2,13 @@
 ## 👩 Olá, Seja bem-vindo ao meu perfil, é um prazer recebê-lo(a). 
 
 ## 🌸 Desenvolvedora Front-End em construção | HTML • CSS • JavaScript  
+
 ## 💻 Apaixonada por tecnologia, design clean e projetos criativos  
-## 🚀 Em constante evolução, construindo meu portfólio e carreira na área tech  
+
+## 🚀 Em constante evolução, construindo meu portfólio e carreira na área tech 
+
 ## 📚 Sempre aprendendo e compartilhando conhecimento  
+
 ## ✨ Transformando linhas de código em experiências encantadoras!
 
 ## Acesse meu perfil 🖥️
