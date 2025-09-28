@@ -1,5 +1,5 @@
 
-## 👩 Olá, Seja bem-vindo ao meu perfil, é um prazer recebê-lo(a). 
+## 👩 Olá, Seja bem-vindo ao meu perfil, é um prazer recebê-lo(a)
 
 ## 🌸 Desenvolvedora Front-End em construção | HTML • CSS • JavaScript  
 
